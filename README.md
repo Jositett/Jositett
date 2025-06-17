@@ -21,26 +21,23 @@
   <img src="https://komarev.com/ghpvc/?username=Jositett&style=for-the-badge&color=ff9500" alt="Profile Views" />
 </div>
 
----
-
-## 🚀 About Me
+---## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;web%2C+automation%2C+and+software+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+educator+and+developer+with+a+focus+on;web%2C+mobile%2C+and+software+engineering" alt="Typing SVG" />
 </div>
 
-> **Delivering practical solutions in web, automation, and software development.**
+> **Empowering future software engineers with hands-on, real-world technology skills.**
 
-Currently focusing on building user-friendly web applications, productivity tools, and automation scripts. My projects range from Java desktop apps (like StudentManagementGUI) and Python data tools (mcq_system, streamlit_mcq, DataPriceExtractor), to various HTML/CSS/TypeScript sites (WoodenCatalogue, wooden_doors, john-personal-portfolio-demo, todo-app).  
-I'm passionate about leveraging simple but robust tech to solve everyday problems and streamline workflows.
+My focus is on delivering practical, up-to-date training in software engineering and application development, blending foundational programming with modern web, mobile, and automation technologies. Through project-based learning and real-world examples, I help students and professionals build the confidence and capability to solve real problems with code.
 
 **Current Focus:**  
-- Empowering the next generation of software engineers through hands-on teaching and project-based learning  
-- Practical software development with Java, Python, C++, C#, VB.NET, PHP, and modern web technologies (HTML5, CSS, JavaScript, TypeScript)  
-- Rapid application development for web, desktop, and mobile platforms  
-- Integrating database and cloud foundations (SQL Server, MySQL)  
-- Building skills in mobile and game development with Android, Xamarin, Kotlin, and Swift  
-- Advocating strong programming fundamentals, system design, and real-world problem solving
+- Mentoring and teaching aspiring software engineers via interactive, project-driven courses  
+- Modern software development using Java, Python, C++, C#, VB.NET, PHP, HTML5, CSS, JavaScript, TypeScript  
+- Building robust applications for web, desktop, and mobile platforms  
+- Integrating databases (SQL Server, MySQL) and cloud concepts  
+- Mobile and game development with Android, Xamarin, Kotlin, Swift  
+- Strong emphasis on core programming, system analysis/design, and practical problem solving
 
 ---
 
@@ -48,10 +45,12 @@ I'm passionate about leveraging simple but robust tech to solve everyday problem
 
 <div align="center">
 
-I teach practical, career-focused software engineering and application development, guiding learners from foundational programming to advanced, real-world projects.
+I guide learners from the very basics of programming to advanced, industry-ready software and application development. My teaching approach is hands-on and project-based, helping students master both theory and practical skills needed for modern tech careers.
 
 <br/>
 
+![System Analysis](https://img.shields.io/badge/System_Analysis-1E90FF?style=flat-square)
+![Programming Methods](https://img.shields.io/badge/Programming_Methods-FFD700?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Advanced Java](https://img.shields.io/badge/Advanced_Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -71,13 +70,15 @@ I teach practical, career-focused software engineering and application developme
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
-![System Analysis](https://img.shields.io/badge/System_Analysis-1E90FF?style=flat-square)
-![Programming Methods](https://img.shields.io/badge/Programming_Methods-FFD700?style=flat-square)
 ![Rapid Application Dev](https://img.shields.io/badge/Rapid_App_Dev-28A745?style=flat-square)
 
 <br/>
 
-I specialize in guiding beginners and aspiring professionals from basic programming concepts to advanced application and mobile development. My teaching blends theory and hands-on projects—covering everything from web and desktop software to mobile and game dev, databases, and rapid prototyping—preparing students for real-world roles in tech.
+I specialize in:
+- Introducing beginners to software engineering fundamentals  
+- Building web, desktop, and mobile applications with real-world tools and languages  
+- Rapid prototyping and full-stack development  
+- Bridging the gap between theory and practice, so learners can confidently tackle real industry challenges
 
 </div>
 

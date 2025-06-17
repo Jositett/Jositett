@@ -35,44 +35,51 @@ Currently focusing on building user-friendly web applications, productivity tool
 I'm passionate about leveraging simple but robust tech to solve everyday problems and streamline workflows.
 
 **Current Focus:**  
-- Java and Python desktop/productivity apps  
-- Interactive web projects using TypeScript, HTML, and CSS  
-- Automation and data extraction tools  
-- Learning and experimenting with new tech through open-source demos
+- Empowering the next generation of software engineers through hands-on teaching and project-based learning  
+- Practical software development with Java, Python, C++, C#, VB.NET, PHP, and modern web technologies (HTML5, CSS, JavaScript, TypeScript)  
+- Rapid application development for web, desktop, and mobile platforms  
+- Integrating database and cloud foundations (SQL Server, MySQL)  
+- Building skills in mobile and game development with Android, Xamarin, Kotlin, and Swift  
+- Advocating strong programming fundamentals, system design, and real-world problem solving
 
 ---
 
-## 👨‍🏫 Teaching
+## 👨‍🏫 What I Teach
 
-### Professional in Software Engineering
+<div align="center">
 
-**YEAR I Semester I (6 months)**  
-- Structured Systems Analysis and Design Method  
-- HTML 5.0  
-- MS SQL Server  
-- Programming Methods  
-- C++  
-- Core Java  
+I teach practical, career-focused software engineering and application development, guiding learners from foundational programming to advanced, real-world projects.
 
-**YEAR I Semester II (6 months)**  
-- Programming with C#  
-- VB.net  
-- Intermediate Python  
-- Rapid Application Development with PHP/MySQL  
+<br/>
 
-**YEAR II Semester I (6 months)**  
-- Advanced Java  
-- Mobile & Game Development Using Android  
-- Rapid Mobile App Development with Xamarin  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Advanced Python](https://img.shields.io/badge/Advanced_Python-306998?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
+![System Analysis](https://img.shields.io/badge/System_Analysis-1E90FF?style=flat-square)
+![Programming Methods](https://img.shields.io/badge/Programming_Methods-FFD700?style=flat-square)
+![Rapid Application Dev](https://img.shields.io/badge/Rapid_App_Dev-28A745?style=flat-square)
 
-**YEAR II Semester II (6 months)**  
-- Advanced Python  
-- Rapid Application Development with Kotlin  
-- Mobile & Game Development with Swift  
+<br/>
 
-*Duration for each semester: 6 months (2 hours daily, 5 days a week, 240 hours per semester). All courses are designed for beginners pursuing a career in Software Engineering and cover both foundational and advanced concepts and hands-on development.*
+I specialize in guiding beginners and aspiring professionals from basic programming concepts to advanced application and mobile development. My teaching blends theory and hands-on projects—covering everything from web and desktop software to mobile and game dev, databases, and rapid prototyping—preparing students for real-world roles in tech.
 
----
+</div>
 
 ## 🛠️ Technical Toolkit
 

@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jositett&style=for-the-badge&color=ff9500" alt="Profile Views" />
 </div>
 
----## 🚀 About Me
+## 🚀 About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+educator+and+developer+with+a+focus+on;web%2C+mobile%2C+and+software+engineering" alt="Typing SVG" />
@@ -37,8 +37,6 @@ My focus is on delivering practical, up-to-date training in software engineering
 - Integrating databases (SQL Server, MySQL) and cloud concepts  
 - Mobile and game development with Android, Xamarin, Kotlin, Swift  
 - Strong emphasis on core programming, system analysis/design, and practical problem solving
-
----
 
 ## 👨‍🏫 What I Teach
 
@@ -71,7 +69,8 @@ I guide learners from the very basics of programming to advanced, industry-ready
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
 ![Rapid Application Dev](https://img.shields.io/badge/Rapid_App_Dev-28A745?style=flat-square)
 
-<br/>
+</div>
+<div align="left">
 
 I specialize in:
 - Introducing beginners to software engineering fundamentals  
@@ -135,7 +134,6 @@ I specialize in:
 *Trying New Tech • Sharing Knowledge • Exploring Open Source*
 
 </div>
----
 
 ## 🌟 Featured Projects
 

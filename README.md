@@ -41,6 +41,39 @@ I'm passionate about leveraging simple but robust tech to solve everyday problem
 - Learning and experimenting with new tech through open-source demos
 
 ---
+
+## 👨‍🏫 Teaching
+
+### Professional in Software Engineering
+
+**YEAR I Semester I (6 months)**  
+- Structured Systems Analysis and Design Method  
+- HTML 5.0  
+- MS SQL Server  
+- Programming Methods  
+- C++  
+- Core Java  
+
+**YEAR I Semester II (6 months)**  
+- Programming with C#  
+- VB.net  
+- Intermediate Python  
+- Rapid Application Development with PHP/MySQL  
+
+**YEAR II Semester I (6 months)**  
+- Advanced Java  
+- Mobile & Game Development Using Android  
+- Rapid Mobile App Development with Xamarin  
+
+**YEAR II Semester II (6 months)**  
+- Advanced Python  
+- Rapid Application Development with Kotlin  
+- Mobile & Game Development with Swift  
+
+*Duration for each semester: 6 months (2 hours daily, 5 days a week, 240 hours per semester). All courses are designed for beginners pursuing a career in Software Engineering and cover both foundational and advanced concepts and hands-on development.*
+
+---
+
 ## 🛠️ Technical Toolkit
 
 <div align="center">
@@ -52,7 +85,7 @@ I'm passionate about leveraging simple but robust tech to solve everyday problem
 <img src="https://img.shields.io/badge/Productivity%20Tools-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Productivity Tools" />
 
 ### Technology Stack
-<img src="https://skillicons.dev/icons?i=java,py,typescript,javascript,html,css,streamlit&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,typescript,javascript,html,css,swift,kotlin,androidstudio,mysql,sqlserver,streamlit,androidstudio&perline=8" />
 
 </div>
 
@@ -65,18 +98,28 @@ I'm passionate about leveraging simple but robust tech to solve everyday problem
 ### 💻 Software & Web Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-4B6C4B?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![VB.net](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-*Websites • GUI Apps • Portfolio Sites • To-Do & Management Tools*
+*Websites • GUI Apps • Mobile & Game Apps • Rapid Application Development*
 
 ### ⚙️ Automation & Data Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-*Data Extraction • Scripting • Interactive Dashboards*
+*Data Extraction • Scripting • Databases • Interactive Dashboards*
 
 ### 🚀 Learning & Experimentation
 ![Demo Projects](https://img.shields.io/badge/Demo_Projects-000?style=flat-square)

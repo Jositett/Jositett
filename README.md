@@ -1,18 +1,18 @@
 <div align="center">
-  <!-- Update your banner text and description below -->
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Jositett&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
+  <!-- Banner text and description updated for current focus -->
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Jositett&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20%7C%20Automation%20%7C%20Java%20%7C%20Python" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
 <div align="center">
   <!-- Replace LINK placeholders with your actual URLs -->
-  <a href="https://www.linkedin.com/in/<!-- YOUR-LINKEDIN-USERNAME -->">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/<!-- YOUR-LINKTREE-USERNAME -->">
+  <a href="https://linktr.ee/YOUR-LINKTREE-USERNAME">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dev.to/<!-- YOUR-DEVTO-USERNAME -->">
+  <a href="https://dev.to/YOUR-DEVTO-USERNAME">
     <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
   </a>
   <a href="https://github.com/Jositett">
@@ -26,32 +26,33 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;web%2C+automation%2C+and+software+development" alt="Typing SVG" />
 </div>
 
-> <!-- Write a 1-2 sentence summary about yourself and your mission here -->
-> **Building the future at the intersection of data, cloud, and immersive technologies**
+> **Delivering practical solutions in web, automation, and software development.**
 
-<!-- Expand on your experience, location, and interests below -->
-Software Engineer with <!-- Your citizenship/location info -->, specializing in multi-domain engineering. I architect scalable data pipelines, deploy cloud-native apps, and create immersive XR experiences.
+Currently focusing on building user-friendly web applications, productivity tools, and automation scripts. My projects range from Java desktop apps (like StudentManagementGUI) and Python data tools (mcq_system, streamlit_mcq, DataPriceExtractor), to various HTML/CSS/TypeScript sites (WoodenCatalogue, wooden_doors, john-personal-portfolio-demo, todo-app).  
+I'm passionate about leveraging simple but robust tech to solve everyday problems and streamline workflows.
 
-**Current Focus:** <!-- Briefly describe your current focus or interests here -->
+**Current Focus:**  
+- Java and Python desktop/productivity apps  
+- Interactive web projects using TypeScript, HTML, and CSS  
+- Automation and data extraction tools  
+- Learning and experimenting with new tech through open-source demos
 
 ---
-
 ## 🛠️ Technical Toolkit
 
 <div align="center">
   
 ### Core Specializations
-<img src="https://img.shields.io/badge/Cloud%20Architecture-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
-<img src="https://img.shields.io/badge/Creative%20Coding-%23FF5733.svg?style=for-the-badge" alt="Creative Coding" />
-<img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/XR%20Development-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="XR Development" />
-<img src="https://img.shields.io/badge/Full%20Stack-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Web%20Applications-0078D4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Applications" />
+<img src="https://img.shields.io/badge/Desktop%20Software-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Desktop Software" />
+<img src="https://img.shields.io/badge/Automation%20%26%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Automation and Scripting" />
+<img src="https://img.shields.io/badge/Productivity%20Tools-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Productivity Tools" />
 
 ### Technology Stack
-<img src="https://skillicons.dev/icons?i=py,js,typescript,react,nextjs,nodejs,aws,azure,docker,terraform,unity,unreal,threejs,blender&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,py,typescript,javascript,html,css,streamlit&perline=7" />
 
 </div>
 
@@ -61,71 +62,93 @@ Software Engineer with <!-- Your citizenship/location info -->, specializing in 
 
 <div align="center">
 
-### 📊 Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-*ETL Pipelines • Data Analytics • ML Operations*
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-*Infrastructure as Code • CI/CD • Orchestration*
-
-### 💻 Software Development
+### 💻 Software & Web Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-4B6C4B?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-*Full-Stack Development • Web APIs • Real-time Systems*
+*Websites • GUI Apps • Portfolio Sites • To-Do & Management Tools*
 
-### 🥽 XR & Immersive Tech
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-![WebXR](https://img.shields.io/badge/WebXR-FF6B35?style=flat-square&logo=webxr&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Quest-1C1E20?style=flat-square&logo=meta&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+### ⚙️ Automation & Data Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-*Virtual Reality • Augmented Reality • 3D Visualization*
+*Data Extraction • Scripting • Interactive Dashboards*
 
-### 🏗️ Architecture & Design
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
-![Rhino](https://img.shields.io/badge/Rhino3D-801010?style=flat-square&logoColor=white)
-![Revit](https://img.shields.io/badge/Revit-0079C1?style=flat-square&logo=autodesk&logoColor=white)
+### 🚀 Learning & Experimentation
+![Demo Projects](https://img.shields.io/badge/Demo_Projects-000?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
 
-*Architectural Visualization • 3D Modeling • CAD Design*
+*Trying New Tech • Sharing Knowledge • Exploring Open Source*
 
 </div>
-
 ---
 
 ## 🌟 Featured Projects
 
-<!--
-  For each project, duplicate and edit the following section.
-  Replace PROJECT_NAME, DESCRIPTION, TECHNOLOGIES, and LINKS.
--->
-### 🏢 Sample Project Title
-[![Project Demo](<!-- THUMBNAIL-URL or remove this line -->)](<!-- PROJECT-URL -->)
+### 🏢 StudentManagementGUI
+A Java Swing application for managing student records. Features a user-friendly interface for CRUD operations, search, and record management.  
+**Your Role:** Sole developer; designed and implemented the full Java desktop GUI.
 
-Brief description of the project, its goals, and your unique contribution.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-4B6C4B?style=flat-square)
 
-![Tech1](https://img.shields.io/badge/Tech1-Label-Color?style=flat-square&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/Tech2-Label-Color?style=flat-square&logo=tech2&logoColor=white)
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/StudentManagementGUI)
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](<!-- LIVE-DEMO-URL -->)
-[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](<!-- REPO-URL -->)
+---
+
+### 🏢 mcq_system
+A Python-based command-line MCQ (Multiple Choice Question) system for quizzes and tests.  
+**Your Role:** Developed the core logic, CLI, and question/answer management.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/mcq_system)
+
+---
+
+### 🏢 WoodenCatalogue
+A TypeScript project to catalogue wooden products, likely with a frontend interface for browsing and management.  
+**Your Role:** Developed TypeScript components and basic UI.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/WoodenCatalogue)
+
+---
+
+### 🏢 DataPriceExtractor
+A web tool that extracts data and prices from a Geonettech bundle page.  
+**Your Role:** Built the HTML UI and implemented extraction logic.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/DataPriceExtractor)
+
+---
+
+### 🏢 streamlit_mcq
+A Streamlit-based MCQ quiz app for interactive assessments in the browser.  
+**Your Role:** Developed Streamlit interface and quiz logic.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/streamlit_mcq)
+
+---
+
+### 🏢 todo-app
+A simple Java-based To-Do application.  
+**Your Role:** End-to-end development of the logic and UI.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/Jositett/todo-app)
 
 ---
 
@@ -133,17 +156,19 @@ Brief description of the project, its goals, and your unique contribution.
 
 <div align="center">
 
-### Certification Portfolio
+<!-- Add your certifications below as available -->
+<!-- Example:
+- Microsoft Certified: Azure Fundamentals
+- AWS Certified Solutions Architect - Associate
+- Google Data Analytics Certificate
+-->
+
+<!-- Badges/links: -->
 [![Microsoft](https://img.shields.io/badge/Microsoft-Your_Certs-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](<!-- MS-CERT-LINK -->)
 [![AWS](https://img.shields.io/badge/AWS-Your_Certs-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](<!-- AWS-CERT-LINK -->)
 [![Other](https://img.shields.io/badge/Other-Your_Certs-4285F4?style=for-the-badge&logo=google&logoColor=white)](<!-- OTHER-CERT-LINK -->)
 
 </div>
-
-<!--
-  List your certifications by provider and type below.
-  Use bullet points or formatting as in your sample.
--->
 
 ---
 
@@ -175,23 +200,23 @@ Brief description of the project, its goals, and your unique contribution.
 ```mermaid
 mindmap
   root((2025 Focus))
-    Cloud Native
-      Serverless Architecture
-      Microservices Design
-      Infrastructure as Code
-      Container Orchestration
-    XR Innovation
-      WebXR Applications
-      Spatial Computing
-      Mixed Reality Interfaces
-      Real-time Rendering
-    AI Integration
-      Multimodal Systems
-      Reinforcement Learning
-      Edge AI Computing
-      Neural Architecture Search
-    Data Engineering
-      Real-time Pipelines
-      MLOps Platforms
-      Analytics Automation
-      Data Mesh Architecture
+    Web Applications
+      HTML/CSS/JS Websites
+      TypeScript Frontends
+      Portfolio/Demo Sites
+      UI/UX Design
+    Automation & Data Tools
+      Data Extraction Scripts
+      Streamlit Apps
+      Student Management Systems
+      To-Do & Productivity Tools
+    Software Engineering
+      Java Desktop Apps
+      Swing GUIs
+      Python Automation
+      Project Structuring
+    Learning & Experimentation
+      Demo Projects
+      Exploring Open Source
+      Tech Stack Expansion
+```

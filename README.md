@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Banner text and description updated for current focus -->
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Jositett&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20%7C%20Automation%20%7C%20Java%20%7C%20Python" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Jositett&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Web%20%7C%20Mobile%20%7C%20Databases%20%7C%20Teaching" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->

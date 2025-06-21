@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Josiah L%20%Laryea%20%Tetteh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Web%20%7C%20Mobile%20%7C%20Databases%20%7C%20Teaching" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Josiah%20L.%20Tetteh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Web%20%7C%20Mobile%20%7C%20Databases%20%7C%20Teaching" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->

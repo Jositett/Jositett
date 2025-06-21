@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Jositett&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Web%20%7C%20Mobile%20%7C%20Databases%20%7C%20Teaching" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Josiah L%20%Laryea%20%Tetteh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Web%20%7C%20Mobile%20%7C%20Databases%20%7C%20Teaching" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -11,7 +11,7 @@
   <a href="https://linktr.ee/YOUR-LINKTREE-USERNAME">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dev.to/YOUR-DEVTO-USERNAME">
+  <a href="https://dev.to/joedroid">
     <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
   </a>
   <a href="https://github.com/Jositett">
